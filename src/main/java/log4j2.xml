@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE XML>
+<Configuration status="INFO">
+	<Appenders>
+		<Console name="LogToConsole" target="SYSTEM_OUT">
+			<PatternLayout charset="UTF-8" disableAnsi="false"
+				pattern="%style{%d{dd MMM yyyy HH:mm:ss}}{cyan} [%style{%M}{yellow}] %highlight{${LOG_LEVEL_PATTERN:-%5p}}{FATAL=red ERROR=red, WARN=yellow INFO=green, DEBUG=green bold, TRACE=blue} %style{%C}{cyan}%style{:}{white, bright}%style{%L}{cyan} %highlight{-}{ERROR=red bright, FATAL=red bright} %highlight{%m}{FATAL=red, ERROR=red, WARN=yellow bold, INFO=green, DEBUG=green bold, TRACE=blue}  %n${LOG_EXCEPTION_CONVERSION_WORD:-%xEx}" />
+		</Console>
+
+		<!-- <RollingFile name="LogToRollingFile" fileName="./logs/WorkHere.log" 
+			filePattern="logs/$${date:yyyy-MM}/app-%d{MM-dd-yyyy}-%i.log.gz" filePermissions="rw-rw-r-"> 
+			<PatternLayout charset="UTF-8"> <Pattern>%d %p %c{1.}:%L [%t] %m%n</Pattern> 
+			</PatternLayout> <Policies> <TimeBasedTriggeringPolicy /> <SizeBasedTriggeringPolicy 
+			size="1 GB" /> </Policies> <DefaultRolloverStrategy max="50" /> </RollingFile> -->
+		<!-- <Gelf name="gelf" host="udp:log.rezo.ai" port="9515" version="1.1" 
+			extractStackTrace="true" filterStackTrace="true" mdcProfiling="true" includeFullMdc="true" 
+			maximumMessageSize="8192" originHost="%host{fqdn}" additionalFieldTypes="fieldName1=String,fieldName2=Double,fieldName3=Long"> 
+			<Field name="timestamp" pattern="%d{dd MMM yyyy HH:mm:ss,SSS}" /> <Field 
+			name="level" pattern="%level" /> <Field name="simpleClassName" pattern="%C{1}" 
+			/> <Field name="className" pattern="%C" /> <Field name="server" pattern="%host" 
+			/> <Field name="server.fqdn" pattern="%host{fqdn}" /> This is a static field 
+			<Field name="fieldName2" literal="fieldValue2" /> This is a field using MDC 
+			<Field name="mdcField2" mdc="mdcField2" /> <DynamicMdcFields regex="mdc.*" 
+			/> <DynamicMdcFields regex="(mdc|MDC)fields" /> <DynamicMdcFieldType regex="my_field.*" 
+			type="String" /> </Gelf> -->
+
+	</Appenders>
+
+
+	<Loggers>
+		<!-- avoid duplicated logs with additivity=false <Logger name="ai.rezo" 
+			level="debug" additivity="false"> <AppenderRef ref="LogToRollingFile" /> 
+			<AppenderRef ref="LogToConsole" /> </Logger> -->
+		<Root level="info">
+			<!-- <AppenderRef ref="LogToRollingFile" /> -->
+			<AppenderRef ref="LogToConsole" />
+		</Root>
+	</Loggers>
+</Configuration>

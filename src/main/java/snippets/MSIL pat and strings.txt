@@ -1,0 +1,141 @@
+sell:: 3 series :: 3-series,3series,320d
+sell:: 5 series :: 520d
+sell:: a3 cabriolet :: cabriolet,cabrolet,carbriolet
+sell:: altroz :: eltroz
+sell:: alturas g4 :: alturas,altrus,aultros,altoz,altorz,altrass
+sell:: amaze :: ameze,amize,amaza
+sell:: ameo :: amemo,ameo,amiyo,ameoe,ameio 
+sell:: avanti :: avanti310
+sell:: aventador :: avetedor,aventedor,aventadors
+sell:: avventura :: avventura,avventura,avantura
+sell:: bolero :: boleroo,blero,bolorero,bollero,buloro,boloro,bealearo,bulero,balero,bolaro
+sell:: br-v :: brv
+sell:: brio :: brio,rio
+sell:: c5 aircross :: aircross
+sell:: camry :: camary,cammery
+sell:: captur :: captura,capture,captur 
+sell:: carnival :: carinival
+sell:: cayenne :: cayennes
+sell:: celerio :: cerlerio,celrio,clerio,celeriyo,celario,selerio,celero,clrerio,celerao,celero vxi,celerio4,cellerio
+sell:: chiron :: chrion,chiran 
+sell:: ciaz :: ciazo,ciaj,caiz,siaz
+sell:: honda city :: honda city
+sell:: compass :: campase,compus,combas
+sell:: continental :: continenta,condinental,contimental,continent
+sell:: corolla altis :: corolla,carolla,corola,carolla
+sell:: cr-v :: crv
+sell:: creta :: creta's,cretea,cretan,creata,crerta,kareta,cretta,cerata,kreta,cetra,creat
+sell:: chevron :: chevron,chiron 
+sell:: cullinan :: cullian
+sell:: dawn :: dawun,dawon,dauwn,dawoun
+sell:: discovery :: discovry
+sell:: duster :: duster,dustar,duster,destor,duater,dastar
+sell:: e verito :: verito,e verito
+sell:: e20 plus :: e20plus 
+sell:: ecosport :: ecosprt,ecosports,ecosport,echosport,eco sports,ecoport,eco-sports,eco-sport,ecospot
+sell:: elantra :: eleantra,elentra,elntra
+sell:: endeavour :: endavour,endeavor,endeaver,indeavour,evendevour,endivour,endevour,eduevour,endevoure,endevaor,endeavo,endeavors 
+sell:: etios :: etos,etios,eitos,etioas,etosecross,itios
+sell:: figo aspire :: aspier,aspire
+sell:: fortuner :: fortuner,fortune,fortune,fortuner,tortuner,fortunar,forchuner,fourtuner
+sell:: freestyle :: freestyl,freestyle,freestyle,freeestyle,free style
+sell:: glanza :: glanja,galanza,galonza,ganza
+sell:: go plus :: datsun go plus,go plus
+sell:: go :: datsun go,go
+sell:: grand i10 :: grandi10,i10,i 10,grand10
+sell:: harrier :: h5x,hariear,harrier,harriar,hariar,hariar,harrar,harrior,hairier,harier,harriee
+sell:: hector :: hectar,hectre,hactar,hektor,mghector,haktar,hecter,hactor,hactor,hextor,hactor,hetor
+sell:: huracan :: hueacan,huracon
+sell:: i20 :: i 20,i20,i20 elite,ii20,I20elait,cari20
+sell:: i20 active :: i 20 active,i20activ,i20 activa
+sell:: ignis :: egnis,ignis,ignish,ignis,lgnis,picnic,ignis,ignis,ignish,ignis,lgnis,igneous,इग्निस,ignesh,ignore it,ignes,egg,ignition,igni,ignite,ignes,ignore,picnic
+sell:: innova crysta :: innova,ennova,crest,crysta,inova,crista
+sell:: jetta :: zetta
+sell:: kicks :: kick
+sell:: kodiaq :: kodiac
+sell:: kona :: cona
+sell:: kwid :: kud,kiwid,kwit,kweid,kiwede,keid,kwide,kaid,climber,kwaid,kkewid,kwids
+sell:: lodgy :: lodgy,lodgy,lodge,loadgy
+sell:: m2 :: m-2
+sell:: marazzo :: marazzon,marazzo,marazzo,marazo,marazoo,marazo,morrajo,marrazo
+sell:: mu-x :: mux
+sell:: mulsanne :: muslane,mulsane 
+sell:: mustang :: mastang 
+sell:: nexon :: nexon,nexon,nexson,nixon
+sell:: nuvosport :: novosport
+sell:: octavia :: octavia,octavia,octevia
+sell:: outlander :: outlder,outlander
+sell:: pajero :: bajero,pujarosport,pujaro,pazero,pajero
+sell:: palisade :: palaiside,palsade,palisades,paliisade
+sell:: panamera :: panamere,panmera,panamera
+sell:: passat :: passat,passat 
+sell:: portofino :: protofino
+sell:: q3 :: audiq3,q3
+sell:: range rover :: rangover,rangrover,rengrover
+sell:: rapid :: rapid,rabbit,rabid
+sell:: re60 :: qute,cute
+sell:: redigo :: redi-go,redi,redigo,redi go,redi go,ready go,radigo,redigot,red-go,reddigo,redgo,redi-g,redi-go
+sell:: safari storme :: safari,safari storm,storm
+sell:: santa fe :: santafi,santfe
+sell:: santro :: sentro,santo,centro,sandro,sentra,santra,santaro
+sell:: scorpio :: scorpio,scarpio,Eskorpuho,scorpeo,scropio,getaway,gataway,gateaway,scokpiro,secorpio,schropio,schropio,scorpii,sacrpio,sxorpio
+sell:: seltos :: shelton,seltros,saltos,selto,selthos,celtos
+sell:: stinger :: stringer
+sell:: superb :: superb,superb
+sell:: supro :: supruro
+sell:: new c-class :: c 200,c 220d,c 200,c 220d,c 300d,c300,cabriolet,c43,c 63
+sell:: v-class :: lwb,horizon,marco polo
+sell:: cls-class :: 300d
+sell:: gls :: 400d,4matic
+sell:: glc coupe :: 300 4matic,300d 4matic
+sell:: amg gt 4-door coupe :: gt 63s
+sell:: e-class :: expression,e 220,220d,e 200,e 220d,e 350d,amg e63 s
+sell:: gla class :: 200 d style,200 sport,urban edition 200,200 d sport,urban edition 200d,220 d 4matic,urban edition 220d
+sell:: amg gt :: roadster
+sell:: glc :: 220d 4matic
+sell:: terrano :: terrno,teraano,terreno,terranno,terrrano
+sell:: thar :: thor,thaar
+sell:: tiago :: tiogo,tiago,taigo,tiyago,tiyango,toago,tigo,tigo,tioga
+sell:: tigor :: tigor,tigor,tigore,tiger
+sell:: trailhawk :: tralhwak,trialhawk,trailhawak,traihawk 
+sell:: triber :: triver,treber,trever,trevor
+sell:: tucson :: tuson,tuscon
+sell:: tuv 300 :: tub 300
+sell:: vellfire :: velfire,welfire
+sell:: vento :: vento,wento,vento,vanto,vinto
+sell:: venue :: vanue,venus,veenu,venu,veneu,vennew,vennu,venues
+sell:: verna :: varna
+sell:: wr-v :: wrv,wr--v
+sell:: xcent :: xcant,xecnt,xecent,xcennt,xccent,excent,xceant,xent
+
+sell:: xuv300 :: xuv-300,xuv 300,s201,xuv 3oo,Xuv300,Xuv3oo
+sell:: xuv500 :: xuv-500,xuv 500,xuv500w4,XUV 5oo
+sell:: xylo :: xyolo,xyaalo
+sell:: yaris :: yaaris,yaries
+sell :: ALTO :: alto,800,800aulto,aulto,old,alter,low,also,polto,all 2,call to,alto k10,k 10,all 2,call to,alto,auto ketan,Ketan,call to 800,all 2800
+
+sell :: Alto 800 Tour :: alto tour,800 tour,800aulto tour,aulto tour,old tour,alter tour,low tour,also tour,polto tour,all 2 tour,call to tour,800 tour,802,alto 800 tour,ऐल्टो ऐट 100 टूर,अल्टो 802,ऐल्टो ऐट टूर,ऐट 100 टूर
+sell :: Baleno :: baleno,belono,boleno,balelo,beheno,ballano,valeno,balen,बलीनो,लीनो,bali no,delhi no,bellino,blay no,bella,no,Bala no,Pallino,Baalenu,Blah no,balli no,balina,bola no,bally nu,bellino,bally no,bhola no,bilona,blah blah no,bunny no,bulla no,pala no,beli nu,balla no,bhalla no,bella bella no,baleno delta,veleno,money no,billy no,bala no,play no,leno blah no,lenovo base model,lenovo play no,lenovo,banu,bueno,bole no,delhi nu,bella no,bhalla,balu,balan,bailando delta,balana,balanna,bhole no,bellin,leno,palla no,mallano,kalina
+sell :: Celerio :: celerio,celrio,celeriyo,celario,selerio,celero,clrerio,celero vxi,cellerio,sailo,सिलेरियो,Cheerio,Palladio,scenario,salario,hello rio,play rio,maruti salario,valerio,hilario
+sell :: Celerio Tour :: celerio tour,celrio tour,celeriyo tour,celario tour,selerio tour,celero tour,clrerio tour,celero vxi tour,cellerio tour,sailo tour,celerio tour,सिलेरियो टूर
+
+
+sell :: Ciaz :: ciaz,ciazo,ciaj,caiz,siaz,faiza,प्याज,सियाज,प्याज़,सीआर,riaz,fiaz,yaz,see hours,see all
+sell :: EECO :: eeco,ecco,ecko,ecoo,eco,ego,ecocare,care,इगो,इको,echo,ikko,pico
+sell :: NEW ERTIGA :: ertiga,artiga,etiga,eartika,eirtka,ertega,ertika,irtiga,eritiga,urtiga,rtiga,erotica,aartika,न्यू अर्टिगा,अर्टिगा,ओंटिगा,artica,ritika,atika,artika,karthika,kartika,adiga,patrika,vartika,atiga,ortega,ediga,krutika,alpika,etika,itika,itca,utica,attica,Article png,ulti ka,irtiqa,artica,karthika,ethika,ultegra vxi cng,riga,kirthiga,arteaga, arteaga,articles ng,al tyga,ulti ka cng,ulti gaal tyga,ultegra vxi,ultegra,attinga,partyka,ulti ka ,article cng,article png,kirtika cng model,kiruthiga,ultra cng,erika,artika,etica top model cng
+sell :: Ignis :: ignis,ignis,ignish,ignis,lgnis,igneous,ignesh,ignore it,ignes,egg,ignis,ignis,ignish,ignis,lgnis,igneous,ignesh,ignore it,ignes,egg,ignition,igni,ignite,ignes,ignore,picnic
+sell :: omni :: omni,omani,omini,ओमनी,उम्मी,omi,o mini,only,oney,om yvonne,omo
+sell :: S-PRESSO :: s presso,espresso,spresso,expresso,sprasso,prasu,presso,express ko,espressivo,espresso vxi,esposo,espresso,espirito,expression,expressive,maruti express show,s pressure,fresho
+sell :: DZIRE :: swift dzire,dzire,dizire,dizair,desire,swift dizere,swity dazire,dezire,dizare,desire,डिजायर,स्विफ्ट डिजायर,bigger,bizarre,digger,design,desire,desire,design,bijay,5th dzire
+sell :: Dzire Tour :: swift dzire tour,dzire tour,dizire tour,dizair tour,desire tour,swift dizere tour,swity dazire tour,dezire tour,dizare tour,desire tour,desire tour,desired tour,dzire tour,डिजायर टूर,स्विफ्ट डिजायर टूर,bigger tour,digger tour
+
+sell :: Swift ::  swift,swieft,sift,shift,wift,wsift,whift,swivet,स्विफ्ट,विथ,विफ्ट,quit,lift,left,shift,5050,50,switch,swit,5th,sweet,sleep,keep
+sell :: S-Cross ::  s cross,scross,sx4 s cross,esx 4,एक क्रॉस,एस क्रॉस,across,cross,espera,escrow,escort,eska ,espa,espera,esperas,esco,estrada
+sell :: NEW BREZZA :: new breeza,breeza,breeza,breeze,brezza,braza,bitarabrezza,briza,ब्रेजा,braja,brija,braga,brega,brazzer,braza,reza,brata,pabreja,maruti breja,brazer,brisa,breeza,brega,brisha,brinda,bareja,beja,bheja,pareja,breda,brasa,brita,barta,maruti birla,bridge
+
+
+sell :: WagonR :: wagon r,wagonr,wagon,wagnor,weganor,wagoner,wagner,vagon r,wagan,bangalore,wangonar,brijnath,wagner,wagoner,bednar,aidyanath,agnan,egin r cng,aijnath png,agan r,eginner,aig an hour,agner,agna cng,aijnath cng,agan r,ednar cng,egana,agna,egin on,aijnath young i,egin a,hagan r,ag no,aijanath png,ednar laxi,ednar lxi variant,ednar bednar,ednar cng optional,agnan vxi,egin r first model,egin nath,egin r lxi cng model,egin r maruti,egin or,begin r,banner png,bednar,bagnan,ragnar,baig nar,again,dragon r,begin,manjunath,gagan r,begana
+sell :: XL6 :: xl,6,excel 6,xxl 6,excel
+sell :: Super Carry ::  super carry,super,super curry,curry petrol,super curry petrol
+
+
